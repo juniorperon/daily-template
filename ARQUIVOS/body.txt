@@ -1,0 +1,10 @@
+[Dev.] {0}
+[Projeto:] {1}
+
+O que fez ontem:
+
+O que vai fazer hoje:
+
+O que lhe impede de prosseguir: Sem Impedimentos
+
+Prazo esperado de entrega: Hoje
